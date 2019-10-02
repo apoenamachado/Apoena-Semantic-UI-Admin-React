@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Apoena-Semantic-UI-Admin-React/precache-manifest.4b981b83c7d916bea13417df6ef73a85.js"
+  "/Apoena-Semantic-UI-Admin-React/precache-manifest.9127e2fdc8954859b69ca650a0d8e460.js"
 );
 
 self.addEventListener('message', (event) => {

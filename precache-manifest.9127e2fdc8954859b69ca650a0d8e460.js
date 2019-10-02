@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d830b6c7ba77d04e8e15afbe6c377d7d",
+    "revision": "2c3b88ec4d0a4b65e2c2a58e56ede291",
     "url": "/Apoena-Semantic-UI-Admin-React/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Apoena-Semantic-UI-Admin-React/static/css/2.89dfdf88.chunk.css"
   },
   {
-    "revision": "d21e0cc91f8f07c9a943",
+    "revision": "3387432ecca921683da5",
     "url": "/Apoena-Semantic-UI-Admin-React/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Apoena-Semantic-UI-Admin-React/static/js/2.ef22ff49.chunk.js"
   },
   {
-    "revision": "d21e0cc91f8f07c9a943",
-    "url": "/Apoena-Semantic-UI-Admin-React/static/js/main.beb5f4ea.chunk.js"
+    "revision": "3387432ecca921683da5",
+    "url": "/Apoena-Semantic-UI-Admin-React/static/js/main.ac2d078c.chunk.js"
   },
   {
     "revision": "5f629899736709081235",
