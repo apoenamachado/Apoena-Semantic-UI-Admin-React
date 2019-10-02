@@ -55,7 +55,7 @@ function App() {
 
  <Container style={{ marginTop: '3em' }}>
 
-      <Header as='h1' style={style.h1} textAlign='center'>Criando Dashboard </Header>
+      <Header as='h1' style={style.h1} textAlign='center'>Apona Semantic-UI Admin - React </Header>
 
       {/* Menu Superior */}
       
