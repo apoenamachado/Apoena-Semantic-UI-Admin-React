@@ -10,10 +10,9 @@ O Objetivo é criar um Admin urlizando Semantic-UI e React, acessando API REST
 - Profile
 - Timeline
 - Componentes
- -- Tabelas
- -- Cards
- -- Notificações
- -- 
+-- Tabelas
+-- Cards
+-- Notificações 
 - Landing Page
 - REST Api Client (Axios)
 
